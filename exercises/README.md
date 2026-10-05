@@ -14,11 +14,11 @@
 
 | ID | 제목 | 관련 단위 |
 | --- | --- | --- |
-| E-git-01 | 커밋하고 브랜치를 만들어 보기 | B1 |
-| E-git-02 | 변경 내역에서 요청하지 않은 변경 찾기 | B3 |
-| E-git-03 | 충돌을 내고 해결하기 | B5 |
-| E-git-04 | 사라진 것처럼 보이는 변경을 되찾기 | B5 |
-| E-setup-01 | 디자이너용 작업 규칙을 내 AI 코딩 앱에 설치하기 | B4 |
+| E-git-01 | [커밋하고 브랜치를 만들어 보기](E-git-01-commit-and-branch.md) | B1 |
+| E-git-02 | [변경 내역에서 요청하지 않은 변경 찾기](E-git-02-find-unrequested-changes.md) | B3 |
+| E-git-03 | [충돌을 내고 해결하기](E-git-03-conflict.md) | B5 |
+| E-git-04 | [사라진 것처럼 보이는 변경을 되찾기](E-git-04-recover-lost-change.md) | B5 |
+| E-setup-01 | [디자이너용 작업 규칙을 내 AI 코딩 앱에 설치하기](E-setup-01-install-work-rules.md) | B4 |
 
 ## 실습 파일의 형식
 

@@ -76,6 +76,6 @@ main에 직접 올리지 않고 PR을 거치기 때문에, 내 변경은 다른 
 
 ## 더 알고 싶다면
 
-- X2 worktree: 여러 작업을 동시에 진행하기
-- X3 rebase와 merge의 차이
-- X4 빌드와 배포: 머지된 코드가 사용자에게 도달하는 과정
+- [X2 worktree: 여러 작업을 동시에 진행하기](X2-worktree.md)
+- [X3 rebase와 merge의 차이](X3-rebase-and-merge.md)
+- [X4 빌드와 배포: 머지된 코드가 사용자에게 도달하는 과정](X4-build-and-deploy.md)

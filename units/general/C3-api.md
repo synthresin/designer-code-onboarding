@@ -62,4 +62,4 @@ status: 초안
 
 ## 더 알고 싶다면
 
-- X1 데이터베이스와 ERD
+- [X1 데이터베이스와 ERD](X1-database-and-erd.md)

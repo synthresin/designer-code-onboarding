@@ -64,4 +64,4 @@ status: 초안
 
 ## 더 알고 싶다면
 
-- X6 HTML과 CSS로 형태가 기술되는 방식
+- [X6 HTML과 CSS로 형태가 기술되는 방식](X6-html-and-css.md)

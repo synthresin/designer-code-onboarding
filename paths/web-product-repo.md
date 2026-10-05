@@ -19,18 +19,18 @@
 
 ## 화면 구성
 
-8. C1 뷰와 모델의 분리
+8. [C1 뷰와 모델의 분리](../units/general/C1-view-and-model.md)
 9. C2 이 레포에서 디자이너가 수정하는 폴더와 수정하지 않는 폴더
-10. C3 API: 화면이 데이터를 받아오는 방식
-11. C5 재사용 단위를 AI에게 지시하고 점검하기
+10. [C3 API: 화면이 데이터를 받아오는 방식](../units/general/C3-api.md)
+11. [C5 재사용 단위를 AI에게 지시하고 점검하기](../units/general/C5-directing-reuse.md)
 12. C6 디자이너용 작업 규칙 스킬
-13. C7 지시문 템플릿 모음
+13. [C7 지시문 템플릿 모음](../units/general/C7-prompt-templates.md)
 14. C8 기존 API 위에서 화면 구성 변경하기. 이것이 마무리 과제입니다.
 
 ## 로직 포함
 
-15. D1 도메인 모델이 코드에 있는 위치
-16. D4 테스트가 보장하는 것
+15. [D1 도메인 모델이 코드에 있는 위치](../units/general/D1-domain-model-in-code.md)
+16. [D4 테스트가 보장하는 것](../units/general/D4-what-tests-guarantee.md)
 17. D2 API 요청과 응답 읽기
 18. D3 로직을 포함하는 변경의 사전 합의 절차
 19. D5 격리된 작은 로직을 포함한 변경. 이것이 마무리 과제입니다.

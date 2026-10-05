@@ -63,4 +63,4 @@ package.json은 목록일 뿐이고, 패키지의 실제 코드는 설치 명령
 
 ## 더 알고 싶다면
 
-- X5 nvm과 node 버전 관리
+- [X5 nvm과 node 버전 관리](X5-nvm-and-node-versions.md)
