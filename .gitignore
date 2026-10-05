@@ -2,3 +2,4 @@
 # 사내 레포로 복사한 뒤에는 아래의 company/ 줄을 지워서 사내 레포에서 관리합니다.
 company/
 .DS_Store
+.onboarding/

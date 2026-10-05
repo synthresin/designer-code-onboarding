@@ -4,7 +4,7 @@
 
 ## 지시
 
-1. 먼저 `AGENTS.md`와 `company/CONTEXT.md`를 읽고, 원칙, 단위의 형식, 의존성 규칙, 글을 쓰는 규칙을 따릅니다.
+1. 먼저 `AUTHORING.md`와 `company/CONTEXT.md`를 읽고, 원칙, 단위의 형식, 의존성 규칙, 글을 쓰는 규칙을 따릅니다.
 2. `units/general/`에 있는 단위 몇 개를 읽어서 글의 분량과 어조를 맞춥니다.
 3. 아래 표의 단위를 `units/_template.md` 형식으로 씁니다. 플랫폼 단위는 `company/units/platform-(플랫폼 이름)/`에, 레포 단위는 `company/units/repo-(레포 이름)/`에 저장합니다.
 4. 항목마다 근거가 된 파일 경로를 단위 글의 끝에 "근거" 항목으로 적습니다.
